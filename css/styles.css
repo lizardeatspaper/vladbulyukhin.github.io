@@ -1,12 +1,10 @@
 body {
 	min-width: 960px;
 	background: url(../img/bg.jpg) no-repeat center center fixed;
-	background-size: auto 100%
 	-o-background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
-	
 }
 
 h1{
