@@ -215,8 +215,8 @@ footer .social {
 and (min-device-width : 320px)
 and (max-device-width : 480px) {
 	body {
-		background: url(../img/bg.jpg) no-repeat;
-		background-size: auto;
+		background: url(../img/bg.jpg) no-repeat center center !important;
+		background-size: 0 auto !important;
 	}
 	.navigation{
 		position: static !important;
