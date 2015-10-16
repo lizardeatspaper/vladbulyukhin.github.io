@@ -216,7 +216,7 @@ and (min-device-width : 320px)
 and (max-device-width : 480px) {
 	body {
 		background: url(../img/bg.jpg) no-repeat !important;
-		background-size: 0 auto !important;
+		background-size: auto !important;
 	}
 	.navigation{
 		position: static !important;
