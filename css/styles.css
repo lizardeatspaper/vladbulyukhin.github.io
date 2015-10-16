@@ -221,5 +221,11 @@ and (max-device-width : 480px) {
 	.navigation{
 		position: static !important;
 	}
+	.container{
+		width: 400px;
+	}
+	.portfolio .flip-item{
+		width: 200px;
+	}
 /* Styles */
 }
