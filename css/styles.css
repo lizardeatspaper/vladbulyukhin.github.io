@@ -215,7 +215,7 @@ footer .social {
 and (min-device-width : 320px)
 and (max-device-width : 480px) {
 	body {
-		background: url(../img/bg.jpg) no-repeat center center !important;
+		background: url(../img/bg.jpg) no-repeat !important;
 		background-size: 0 auto !important;
 	}
 	.navigation{
@@ -225,7 +225,7 @@ and (max-device-width : 480px) {
 		width: 400px !important;
 	}
 	.portfolio .flip-item{
-		width: 200px !important;
+		width: 300px !important;
 	}
 /* Styles */
 }
