@@ -222,10 +222,10 @@ and (max-device-width : 480px) {
 		position: static !important;
 	}
 	.container{
-		width: 400px;
+		width: 400px !important;
 	}
 	.portfolio .flip-item{
-		width: 200px;
+		width: 200px !important;
 	}
 /* Styles */
 }
