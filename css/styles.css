@@ -214,6 +214,12 @@ footer .social {
 @media only screen
 and (min-device-width : 320px)
 and (max-device-width : 480px) {
+	body {
+		background: url(../img/bg.jpg) no-repeat center center;
+	}
+	.navigation{
+		position: static !important;
+	}
 /* Styles */
 }
 
@@ -221,12 +227,24 @@ and (max-device-width : 480px) {
 @media only screen
 and (min-width : 321px) {
 /* Styles */
+	body {
+		background: url(../img/bg.jpg) no-repeat center center;
+	}
+	.navigation{
+		position: static !important;
+	}
 }
 
 /* Smartphones (portrait) ----------- */
 @media only screen
 and (max-width : 320px) {
 /* Styles */
+body {
+		background: url(../img/bg.jpg) no-repeat center center;
+	}
+	.navigation{
+		position: static !important;
+	}
 }
 
 /* iPads (portrait and landscape) ----------- */
@@ -234,6 +252,12 @@ and (max-width : 320px) {
 and (min-device-width : 768px)
 and (max-device-width : 1024px) {
 /* Styles */
+body {
+		background: url(../img/bg.jpg) no-repeat center center;
+	}
+	.navigation{
+		position: static !important;
+	}
 }
 
 /* iPads (landscape) ----------- */
@@ -242,6 +266,12 @@ and (min-device-width : 768px)
 and (max-device-width : 1024px)
 and (orientation : landscape) {
 /* Styles */
+body {
+		background: url(../img/bg.jpg) no-repeat center center;
+	}
+	.navigation{
+		position: static !important;
+	}
 }
 
 /* iPads (portrait) ----------- */
@@ -250,6 +280,12 @@ and (min-device-width : 768px)
 and (max-device-width : 1024px)
 and (orientation : portrait) {
 /* Styles */
+body {
+		background: url(../img/bg.jpg) no-repeat center center;
+	}
+	.navigation{
+		position: static !important;
+	}
 }
 
 /* The New iPad (iPad 3) ----------- */
@@ -258,6 +294,12 @@ and (min-device-width: 1536px)
 and (max-device-width: 2048px)
 and (-webkit-min-device-pixel-ratio: 2) {
 /* Styles */
+body {
+		background: url(../img/bg.jpg) no-repeat center center;
+	}
+	.navigation{
+		position: static !important;
+	}
 }
 
 /* iPhone 4 ----------- */
@@ -265,4 +307,10 @@ and (-webkit-min-device-pixel-ratio: 2) {
 only screen and (-webkit-min-device-pixel-ratio : 1.5),
 only screen and (min-device-pixel-ratio : 1.5) {
 /* Styles */
+body {
+		background: url(../img/bg.jpg) no-repeat center center;
+	}
+	.navigation{
+		position: static !important;
+	}
 }
